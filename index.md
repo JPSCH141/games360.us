@@ -9,8 +9,6 @@ Bienvenidos, aquí encontraran todo relacionado con las cuentas de xbox 360
 
 Ni no te has suscrito [YouTube  channel](https://www.youtube.com/channel/UCEe6aDktrf-vdBHXvkPcy-Q)
 
-![Image of shadow, inc](images/nxs.png)
-
 
 
 
