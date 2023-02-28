@@ -1,6 +1,6 @@
 Bienvenidos, aquí encontraran todo relacionado con las cuentas de xbox 360
 
-![Image of shadow, inc](images/logotipo (1).png)
+![Image of shadow, inc](images/logotipo.png)
 
 
 ## Free Games, Free Services.
