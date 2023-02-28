@@ -1,4 +1,3 @@
 # About
 
-Hello, I'm alejandro shadow and I'm the owner of this website. Here I will be uploading accounts of xbox 360, and also some mini summaries of anime in writing leaving them as a review here in this blog visit my official website [LordShadow](https://lordshadow.net). also visit my project [AnimeDex](https://animedex.tk)
-{% include info.html text="Iam Derkila" %}
+Hola está es la página oficial de las cuentas de 360Games, aquí podran encontran todas las cuentas, sus contraseñas y los metodos para descargar los juegos 
