@@ -1,5 +1,4 @@
-Bienvenidos, aquí encontraran todo relacionado con las cuentas de xbox 360
-
+Bienvenidos, aquí encontraran todo relacionado con las cuentas de xbox de 360Games
 
 ![Image of shadow, inc](images/Games.png)
 
