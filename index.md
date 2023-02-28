@@ -3,7 +3,6 @@ Bienvenidos, aquí encontraran todo relacionado con las cuentas de xbox 360
 
 
 
-![Image of shadow, inc](images/logotipo (1).png)
 
 
 ## Free Games, Free Services.
@@ -11,6 +10,7 @@ Bienvenidos, aquí encontraran todo relacionado con las cuentas de xbox 360
 don't forget to subscribe on my [YouTube  channel](https://www.youtube.com/channel/UCEe6aDktrf-vdBHXvkPcy-Q)
 
 ![Image of shadow, inc](images/nxs.png)
+![Image of shadow, inc](images/logotipo (1).png)
 
 
 
