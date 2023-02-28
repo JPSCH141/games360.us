@@ -14,6 +14,6 @@ Ni no te has suscrito [YouTube  channel](https://www.youtube.com/channel/UCEe6aD
 
 
 
-## [Noxius, LTD ©2023 Noxius](https://games360.ltd)
+## [360Games, ©2023 360Games](https://games360.ltd)
 
 
