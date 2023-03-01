@@ -1,6 +1,6 @@
 Bienvenidos, aquí encontraran todo relacionado con las cuentas de xbox de 360Games
 
-![Image of shadow, inc](images/Games.png)
+![Image of shadow, inc](images/DragónLogo.png)
 
 
 
