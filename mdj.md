@@ -1,5 +1,4 @@
-# mdj
-
+Metodos de juego
 #### Autor: [360Games](games360.us)
 
 ## Metodos Para Jugar
