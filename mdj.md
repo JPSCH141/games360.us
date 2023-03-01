@@ -18,6 +18,8 @@ Estos, metodos se usaran para que puedas jugar con tu propio perfil de Xbox Live
 ## Metodo #4
 {Inicio de sesion en otro lugar} Al igual que el (Metodo #3), haras el mismo procedimiento. solo que no desconectaras ningun dispositivo. Aqui, le tienes que pedir ayuda a un miembro/o esperar que te saquen del perfil. luego tu cierras la sesion cuando hayas accedido a tu videojuego
 
-## Metodo Bonus
+## Metodo #5
 En los juegos arcade ocupas que el juego cargue al 100% hasta el menú para poder hacer algunos de los métodos. Incluso algunos juegos/dlcs necesitan ser jugados y cerrar sesion dentro de la partida para que funcionen los metodos, Esperamos que disfrutes tus titulos preferidos 🎮
 
+## Metodo Bonus
+Este metodo solo está disponible para gears of war 2, para los que no puedan descargar el juego desde el xbox 360, lo pueden descargar desde este link y pasarlo con una usb (https://www.mediafire.com/file/p328jk6g65tjd38/4D53082D.rar/file)
