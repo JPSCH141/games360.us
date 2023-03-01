@@ -6,7 +6,7 @@ Bienvenidos, aquí encontraran todo relacionado con las cuentas de xbox de 360Ga
 
 ## Free Games, Free Services.
 
-Ni no te has suscrito [YouTube  channel](https://www.youtube.com/channel/UCEe6aDktrf-vdBHXvkPcy-Q)
+Si todavía no te has suscrito [YouTube  channel](https://www.youtube.com/channel/UCEe6aDktrf-vdBHXvkPcy-Q)
 
 
 
