@@ -1,6 +1,6 @@
 # mdj
 
-#### Autor: [360Games](https://lordshadow.net)
+#### Autor: [360Games](games360.us)
 
 ## Metodos Para Jugar
 
