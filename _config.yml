@@ -7,11 +7,10 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: 360Games
-description: Official Blog, i post xbox 360 accounts and updates of my projects... ❤
+description: Página oficial de las cuentas de 360Games
 
 # Email and twitter are optional:
 email: dey.mar2156@gmail.com
-twitter_username: 360Games
 
 # Set this to true to get LaTeX math equation support
 use_math:
